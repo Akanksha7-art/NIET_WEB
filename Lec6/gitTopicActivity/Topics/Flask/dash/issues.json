@@ -1,0 +1,12 @@
+[
+    {"issueKaName":"killing flask run process with ctrl + c does not kill dash process in WSL1",
+               "issueKaLink":"https://www.github.com/plotly/dash/issues/1668"},
+    {"issueKaName":"[Feature Request] Toggle between graphs and reset animation frame to 0",
+        "issueKaLink":"https://www.github.com/plotly/dash/issues/1667"},
+    {"issueKaName":"How to pass unix timestamp directly to dash?",
+        "issueKaLink":"https://www.github.com/plotly/dash/issues/1666"},
+    {"issueKaName":"[BUG] customdata is missing in clickData for pie charts",
+        "issueKaLink":"https://www.github.com/plotly/dash/issues/1663"},
+    {"issueKaName":"[BUG]Unexpected behavior when deploying Dash as Azure WebApp after Flask 2.x release",
+        "issueKaLink":"https://www.github.com/plotly/dash/issues/1662"}
+]
